@@ -14,7 +14,7 @@ vagrant up
 
 # ssh into box and navigate to the project directory
 vagrant ssh
-cd &#47;vagrant
+cd \/vagrant
 
 # leave ssh session
 exit
