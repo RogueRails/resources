@@ -8,20 +8,18 @@
 
 ### Vagrant Basic Commands
 
-...
-# boot the vagrant box
-vagrant up
+    # boot the vagrant box
+    vagrant up
 
-# ssh into box and navigate to the project directory
-vagrant ssh
-cd /vagrant
+    # ssh into box and navigate to the project directory
+    vagrant ssh
+    cd /vagrant
 
-# leave ssh session
-exit
+    # leave ssh session
+    exit
 
-# shutdown vagrant box
-vagrant halt
+    # shutdown vagrant box
+    vagrant halt
 
-# completely remove vagrant box
-vagrant destroy
-...
+    # completely remove vagrant box
+    vagrant destroy
