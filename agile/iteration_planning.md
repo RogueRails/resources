@@ -10,6 +10,6 @@ Don't use iteration planning meetings as a "catch-all" for discussions.  To keep
 ### Agenda
 
 1. Review completed stories from the previous iteration
-2. Review stories top down: identify "blockers", add/remove acceptance criteria, comments needing attention, re-point if needed
-3. Point un-pointed stories
-4. Reorder stories
+2. Review incomplete stories top down: identify "blockers", add/remove acceptance criteria, comments needing attention, re-point if needed
+3. Point un-pointed stories in the backlog
+4. Reorder stories that need to be re-prioritized due to business need or technical dependency
