@@ -8,13 +8,13 @@
 
 ### Vagrant Basic Commands
 
-```ruby
+...
 # boot the vagrant box
 vagrant up
 
 # ssh into box and navigate to the project directory
 vagrant ssh
-cd \/vagrant
+cd /vagrant
 
 # leave ssh session
 exit
@@ -24,4 +24,4 @@ vagrant halt
 
 # completely remove vagrant box
 vagrant destroy
-```
+...
