@@ -18,7 +18,7 @@ Story formats may differ, but always include the same elements.  Put the goal fi
 ```
   In order to ... (GOAL)
   As a ... (STAKEHOLDER)
-  I want to .... (BEHAVIOR)
+  I want to ... (BEHAVIOR)
 ```
 
 #### QUALITY STORIES (INVEST)
