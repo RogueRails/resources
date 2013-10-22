@@ -18,14 +18,14 @@ Keep the inception meeting macro (high level).  Avoid discussion around implemen
 3. What are the perceived risks?
 4. How will we validate the success/failure of our solution in a tangible and measurable way?
 
-###### Scope:
-
-1. What are our product themes?  How do those theme relate to one another?
-2. What are the initial user stories?
-3. What is our minimum viable product (MVP)?
-
 ###### Logistics:
 
 1. What are our constraints (money, time and scope)?
 2. Who's involved and what are their roles?
 3. What is our workflow?
+
+###### Scope:
+
+1. What are our product themes?  How do those theme relate to one another?
+2. What are the initial user stories?
+3. What is our minimum viable product (MVP)?
