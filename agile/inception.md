@@ -18,7 +18,7 @@ Keep the inception meeting macro (high level).  Avoid discussion around implemen
 3. What are the perceived risks?
 4. How will we validate the success/failure of our solution in a tangible and measurable way?
 
-###### Backlog:
+###### Scope:
 
 1. What are our product themes?  How do those theme relate to one another?
 2. What are the initial user stories?
