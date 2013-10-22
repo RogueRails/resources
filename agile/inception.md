@@ -26,6 +26,10 @@ Keep the inception meeting macro (high level).  Avoid discussion around implemen
 
 ###### Scope:
 
-1. What are our product themes?  How do those theme relate to one another?
-2. What are the initial user stories?
-3. What is our minimum viable product (MVP)?
+1. Review the list of requirements (provided by the Product Owner)
+2. Break requirements into related themes
+3. Create user stories for each requirement
+4. Organize user stories by theme
+5. Move stories to the icebox that are not a part of the minimum viable product (MVP)
+6. Create a MVP of themes
+7. Prioritize themes
