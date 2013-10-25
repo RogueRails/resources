@@ -8,7 +8,7 @@ Add postgres to your Gemfile in the production group:
   end
 ```
 
-Move (not duplicateP) the mysql2 gem to the development/test group.  Note: the ellipses are meant to represent the rest of the gem list in that group.
+Move (not duplicate) the mysql2 gem to the development/test group.  Note: the ellipses are meant to represent the rest of the gem list in that group.
 
 ```
   group :development, :test do
