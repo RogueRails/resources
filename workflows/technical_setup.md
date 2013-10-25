@@ -6,6 +6,7 @@ Please follow these steps to setup the neccesary development environment for the
 
 1. Download and install [VirtualBox][virtualbox]
 2. Download and install the latest version of [Vagrant][vagrant]
+3. Create a github.com account, if you don't have one already
 3. Clone the starter_app into whatever project directory you want using the code: ` git clone git@github.com:RogueRails/starter_app.git`
 
 #### Install the box
