@@ -1,5 +1,9 @@
 # Deployment to Ninefold
 
+Change to a `deployer` git branch:
+
+` git checkout -b deployer `
+
 Add postgres to your Gemfile in the production group:
 
 ```
@@ -21,9 +25,17 @@ Update your local gemset from WITHIN the vagrant box:
 
 ` $ bundle install --without production `
 
+Commit the changes to git
+
+` git add Gemfile `
+
+` git add Gemfile.lock `
+
+` git commit -m 'add postgres to production group and move to mysql to development group' `
+
 Push your changes to the github repository
 
-` git push origin master `
+` git push origin deployer `
 
 Follow the Ninefold guides for additional deployment steps:
 
